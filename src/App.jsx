@@ -15,11 +15,11 @@ import ReviewMain from "./pages/Main/reviewMain";
 import JoinwithUs from "./pages/user/JoinWithUs";
 
 // User side Login
-import UserLoginPage1 from "./pages/user/userLoginPage1";
-import UserLoginPage2 from "./pages/user/userLoginPage2";
-import UserLoginPage3 from "./pages/user/userLoginPage3";
-import UserLoginPage4 from "./pages/user/userLoginPage4";
-import UserLoginPage5 from "./pages/user/userLoginPage5";
+import UserLoginPage1 from "./pages/user/UserLoginPage1";
+import UserLoginPage2 from "./pages/user/UserLoginPage2";
+import UserLoginPage3 from "./pages/user/UserLoginPage3";
+import UserLoginPage4 from "./pages/user/UserLoginPage4";
+import UserLoginPage5 from "./pages/user/UserLoginPage5";
 
 // user SignUp
 import UserSignUp1 from "./pages/user/UserSignUp1";
