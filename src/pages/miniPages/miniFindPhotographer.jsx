@@ -13,9 +13,9 @@ const LocationSearch = () => {
     navigate("/photographers");
   };
   return (
-    <div className="flex flex-col md:flex-row items-center justify-center min-h-screen bg-[#E8EFF7] px-10 py-6">
-      <div className="w-full md:w-1/2 flex justify-center">
-        <img src={locationImg} alt="Location Pin" className="w-full h-auto" />
+    <div className="flex flex-col md:flex-row items-center justify-center min-h-screen  px-10 py-6">
+      <div className="w-full md:w-1/2 flex justify-center ">
+        <img src={locationImg} alt="Location Pin" className="w-full h-auto " />
       </div>
 
       {/* Content */}

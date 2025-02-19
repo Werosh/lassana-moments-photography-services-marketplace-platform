@@ -12,7 +12,7 @@ const Home = () => {
     navigate("/UserDash");
   };
   const handleSeeMore3 = () => {
-    navigate("/EditProfile");
+    navigate("/review");
   };
   return (
     <>
@@ -52,7 +52,7 @@ const Home = () => {
             <br />
 
             <Button
-              name="User Dashboard "
+              name="Main Review  "
               // icon={<FaCircleChevronRight />}
               bgColor="#0057ff"
               width="350px"

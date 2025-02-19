@@ -8,6 +8,7 @@ import LandingPage from "./pages/LandingPage";
 //Main pages
 import PhotographerMain from "./pages/Main/photographerMain";
 import GalleryMain from "./pages/Main/galleryMain/galleryMain";
+import ReviewMain from "./pages/Main/reviewMain";
 
 //entering Login Or Sign Up
 
@@ -133,6 +134,7 @@ const App = () => {
             {/* Main Pages within Mini sections */}
             <Route path="/photographers" element={<PhotographerMain />} />
             <Route path="/gallery" element={<GalleryMain />} />
+            <Route path="/review" element={<ReviewMain />} />
 
             {/* models */}
             <Route path="/EditProfile" element={<EditProfile />} />
