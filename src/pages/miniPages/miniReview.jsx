@@ -1,7 +1,7 @@
 import React from "react";
 import ReviewImage from "../../images/reviewback/reviewback.png";
 import UserAvatar from "../../images/reviewback/womanImage.jpg";
-import SendIcon from "../../images/reviewback/SendIcon.png";
+import SendIcon from "../../images/reviewback/sendIcon.png";
 import { useNavigate } from "react-router-dom";
 
 const ReviewSection = () => {
