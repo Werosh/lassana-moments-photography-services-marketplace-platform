@@ -236,7 +236,7 @@ const Hero = () => {
               <div className="flex items-center gap-4">
                 <div className="w-10 h-10 sm:w-12 sm:h-12 rounded-full overflow-hidden">
                   <img 
-                    src="/src/assets/HeroImg/reviewer.jpg" 
+                    src="https://www.mnp.ca/-/media/foundation/integrations/personnel/2020/12/16/13/57/personnel-image-4483.jpg?h=800&iar=0&w=600&hash=833D605FDB6AC3C2D2915F6BF8B4ADA4" 
                     alt="Maal Gamage"
                     className="w-full h-full object-cover" 
                   />
