@@ -62,7 +62,7 @@ const Gallery = () => {
 
 
   return (
-    <div id="gallery" className=" font-['Poppins'] p-5 mt- ">
+    <div id="gallery" className=" font-['Poppins'] p-5 bg-gradient-to-b from-white to-lightLavenderGray ">
       <div className="max-w-[1400px] mx-auto text-center">
         <h2 className="text-[#115c86] text-8xl mb-6 md:text-6xl sm:text-5xl mt-20 font-semibold">
           Gallery

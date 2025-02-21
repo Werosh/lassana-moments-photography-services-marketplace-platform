@@ -11,7 +11,7 @@ const ReviewSection = () => {
     navigate("/review");
   };
   return (
-    <div className="relative  font-[Poppins] rounded-lg shadow-lg p-6 overflow-hidden  ">
+    <div className="relative  font-[Poppins] rounded-lg shadow-lg p-6 overflow-hidden bg-gradient-to-b from-white to-lightLavenderGray ">
       {/* Right-side Content */}
       <div className="relative z-10 ml-auto w-full lg:w-1/2 p-4 sm:p-6 lg:p-8 ">
         {/* Header */}

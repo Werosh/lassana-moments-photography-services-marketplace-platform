@@ -105,7 +105,7 @@ const MiniPhotographer = () => {
   };
 
   return (
-    <div  id="miniPhotographer" className="min-h-screen font-['Poppins']">
+    <div  id="miniPhotographer" className="min-h-screen font-['Poppins'] bg-gradient-to-b from-white to-lightLavenderGray">
       <header className=" py-8">
         <div className="container mx-auto px-4">
           <h1 className="text-4xl font-bold text-center mb-4 text-[#115c86] mt-15">

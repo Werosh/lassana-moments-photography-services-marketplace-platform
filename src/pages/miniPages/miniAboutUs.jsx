@@ -6,7 +6,7 @@ import logo from "../../images/logo/LassanaMomentz logo transparent.png";
 const AboutUs = () => {
   return (
     <div id='aboutus'
-      className="min-h-screen font-primary text-primaryText overflow-hidden" 
+      className="min-h-screen font-primary text-primaryText overflow-hidden bg-gradient-to-b from-white to-lightLavenderGray" 
       style={{ fontFamily: "var(--font-primary)" }}
     >
       {/* Hero Section */}

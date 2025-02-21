@@ -4,7 +4,7 @@ import { FaSearch } from "react-icons/fa";
 import Button from "../../components/Button";
 import { useNavigate } from "react-router-dom";
 
-import locationImg from "../../images/others/map.jpg";
+import locationImg from "../../images/others/map.png";
 
 const LocationSearch = () => {
   const navigate = useNavigate();
@@ -13,7 +13,7 @@ const LocationSearch = () => {
     navigate("/photographers");
   };
   return (
-    <div className="flex flex-col md:flex-row items-center justify-center min-h-screen  px-10 py-6">
+    <div className="flex flex-col md:flex-row items-center justify-center min-h-screen  px-10 py-6 bg-gradient-to-b from-white to-lightLavenderGray">
       <div className="w-full md:w-1/2 flex justify-center ">
         <img src={locationImg} alt="Location Pin" className="w-full h-auto " />
       </div>
